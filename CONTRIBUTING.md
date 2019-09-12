@@ -51,7 +51,7 @@ You can find more developers' resources in [`dev/`](dev) directory.
 1. Clone your fork of the GitHub repository
 
     ```sh
-    git clone git@github.com:<username>/druid.git
+    git clone git@github.com:<username>/incubator-druid.git
     ```
 
     replace `<username>` with your GitHub username.
